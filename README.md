@@ -6,8 +6,7 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am a beginer in this filed
 - Pursing Btech in VIT, Pune ( CS/IT ) Department
-- 
-
+  
 <!---
 ameypathak39/ameypathak39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
